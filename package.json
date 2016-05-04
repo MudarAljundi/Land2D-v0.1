@@ -1,0 +1,12 @@
+{
+  "name": "Land2D-Editor",
+  "description": "Feature-free map editor for developers",
+  "private": true,
+  "author": "github.com/MudarAljundi || mantis1.newgrounds.com",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-uglify": "^0.9.2"
+  }
+}

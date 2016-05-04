@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="104401__kantouth__gatling-gun_data" version="1.3.0" audacityversion="2.0.5" sel0="0.0470822943" sel1="0.0470822943" vpos="0" h="0.0000000000" zoom="212.3940677966" rate="48000.0">
+	<tags>
+		<tag name="TITLE" value="Gatling Gun Ex"/>
+		<tag name="Encoded by" value="iTunes 9.2.1"/>
+		<tag name="COMMENTS" value=" 00000000 00000210 000009C0 0000000000041EB0 00000000 0000D6B0 00000000 00000000 00000000 00000000 00000000 00000000"/>
+	</tags>
+	<wavetrack name="104401__kantouth__gatling-gun" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="271872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f06.au" len="262144" min="-2.457196" max="2.404015" rms="0.653828"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000f7c.au" len="9728" min="-0.020008" max="0.019276" rms="0.00182"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.38608333">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="119844">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000bf0.au" len="119844" min="-0.739051" max="0.733596" rms="0.21454"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="2.88283333">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="76997">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ce5.au" len="76997" min="-0.697931" max="0.689016" rms="0.172212"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
