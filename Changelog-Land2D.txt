@@ -1,0 +1,42 @@
+Changelog Land2D
+~~27/11/2015~~
+- Added zoom in
+
+~~since last update until 22/11/2015~~
+- added (pen, bucket, eyedrop, box selection) tools for tiles
+- started work on more polished obj tools.
+- split editor into into loosly augmented modules
+- added turns and basic enemies + basic gun properties
+
+~~31/10/2015~~
+- started "undo" feature in map editing
+- removed unneccessary mouse listeners in playstate, moved some to the editor module
+
+~~30/10/2015~~
+- Real, seamless map loading!
+- Now able to resize maps
+
+~~28/10/2015~~
+- Has it already been a month!? Ahhh!!
+- Reorganized modules
+- Added hardcoded .json loading + barebones file loading (don't remember why I needed that)
+- The whole level editor stuff
+- Reorganized modules
+- Menu state
+- Preloading
+- Bug fixes
+- Reorganized modules
+
+~~26/9/2015~~
+- Player movement and basic shooting mechanics
+- Reorganized modules
+
+~~18/9/2015~~
+- Changed map.data way of writing. (Was a series of arrays in an array, made it strings in an array for efficiancy and breivity)
+- Tile highlighting.
+- Started work on pathfinding.
+
+~~17/9/2015~~
+- Made editmap button
+- Placed arbitrary, fun text
+- Renamed engine to Land2D
