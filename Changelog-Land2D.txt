@@ -1,15 +1,15 @@
-Changelog Land2D
+Land2D Changelog
 ~~27/11/2015~~
 - Added zoom in
 
-~~since last update until 22/11/2015~~
+~~22/11/2015~~
 - added (pen, bucket, eyedrop, box selection) tools for tiles
-- started work on more polished obj tools.
+- restarted work on obj tools.
 - split editor into into loosly augmented modules
-- added turns and basic enemies + basic gun properties
+- added combat turns and basic enemies with behaviour and basic gun properties
 
 ~~31/10/2015~~
-- started "undo" feature in map editing
+- added "undo" feature in map editing
 - removed unneccessary mouse listeners in playstate, moved some to the editor module
 
 ~~30/10/2015~~
